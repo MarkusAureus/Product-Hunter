@@ -1,12 +1,3 @@
-# -----------------------------------------------------------------------------
-# -- PRODUCT HUNTER - A BAZOS.SK WEB SCRAPER                                 --
-# -- Author: [Your Name/Nickname Here]                                       --
-# -- Date: [Date of Last Edit]                                               --
-# -- Description: A simple desktop application built with Tkinter that       --
-# --              scrapes product listings from bazos.sk based on a user's   --
-# --              search query.                                              --
-# -----------------------------------------------------------------------------
-
 # --- Third-party Library Imports ---
 from bs4 import BeautifulSoup
 import requests
