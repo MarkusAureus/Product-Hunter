@@ -1,7 +1,3 @@
-Certainly! Here’s a `README.md` for your GitHub project. This document explains the purpose of the project, how it works, the libraries used, and setup instructions. 
-
----
-
 # Product Hunter
 
 Product Hunter is a GUI application built with Python, which allows users to search for products on Bazos.sk, a popular Slovak classifieds website. It scrapes and displays product names and prices based on a search keyword, making it easier to browse items directly from the application.
@@ -65,7 +61,3 @@ Product Hunter is a GUI application built with Python, which allows users to sea
   
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` should give any potential employer a clear understanding of what your project does and how to get started with it. Good luck with your portfolio!
